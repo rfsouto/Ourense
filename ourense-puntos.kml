@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ourense — Qué visitar</name>
+    <description>14 puntos de interés en la ciudad de Ourense</description>
+
+    <Placemark>
+      <name>1. Las Burgas</name>
+      <description>Tres fuentes termales a 65 °C en pleno centro histórico. Gratuito y accesible en cualquier momento.</description>
+      <Point><coordinates>-7.8640,42.3414,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>2. Mercado de Abastos</name>
+      <description>Mercado municipal renovado. Producto gallego fresco: quesos, chorizos, pan de maíz y pulpo.</description>
+      <Point><coordinates>-7.8645,42.3418,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>3. Catedral de San Martín</name>
+      <description>Románico del siglo XII con el Pórtico del Paraíso, el más hermoso de Galicia después del de Santiago.</description>
+      <Point><coordinates>-7.8637,42.3407,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>4. Praza Maior</name>
+      <description>El corazón histórico de la ciudad con el Ayuntamiento barroco del siglo XVIII y soportales con cafeterías.</description>
+      <Point><coordinates>-7.8651,42.3400,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>5. Museo Arqueolóxico Provincial</name>
+      <description>Colección romana, prehistórica y medieval en el antiguo Palacio Episcopal. Entrada gratuita.</description>
+      <Point><coordinates>-7.8623,42.3395,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>6. Iglesia de Santa Eufemia</name>
+      <description>Una de las pocas iglesias barrocas bien conservadas de España. Fachada del siglo XVIII con retablos dorados en el interior.</description>
+      <Point><coordinates>-7.8631,42.3410,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>7. Escalinata de Santa María Nai</name>
+      <description>Escalinata exterior de esta iglesia románica del siglo XII. Uno de los rincones más fotogénicos del casco histórico.</description>
+      <Point><coordinates>-7.8655,42.3393,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>8. Puente Romano</name>
+      <description>2.000 años de historia sobre el río Miño. Una de las mejor conservadas de Hispania, aún en uso.</description>
+      <Point><coordinates>-7.8637,42.3379,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>9. Termas de Chavasqueira</name>
+      <description>Piscinas termales públicas al aire libre junto al río Miño. Gratuito.</description>
+      <Point><coordinates>-7.8705,42.3367,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>10. Termas de A Burga de Outariz</name>
+      <description>Cascada termal y pozas escalonadas sobre el río Miño. Las más naturales y espectaculares. Gratuito.</description>
+      <Point><coordinates>-7.8688,42.3140,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>11. Puente del Milenio</name>
+      <description>Pasarela peatonal de acero sobre el Miño con vistas panorámicas de la ciudad y el río.</description>
+      <Point><coordinates>-7.8715,42.3355,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>12. La Castiñeira — Calle del Paseo</name>
+      <description>Estatua de una castañera, homenaje a la tradición de venta de castañas asadas en Ourense. El Paseo es el lugar de paseo y tertulia por excelencia de la ciudad.</description>
+      <Point><coordinates>-7.8578,42.3398,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>14. Parque de San Lázaro</name>
+      <description>Gran parque urbano para el paseo de tarde. Estanque y zonas arboladas.</description>
+      <Point><coordinates>-7.8515,42.3420,0</coordinates></Point>
+    </Placemark>
+
+    <Folder>
+      <name>Dónde comer</name>
+
+      <Placemark>
+        <name>Fuentefría</name>
+        <Point><coordinates>-7.8629911,42.3374262,0</coordinates></Point>
+      </Placemark>
+
+      <Placemark>
+        <name>O Barallete</name>
+        <Point><coordinates>-7.8632323,42.337558,0</coordinates></Point>
+      </Placemark>
+
+      <Placemark>
+        <name>O Frade</name>
+        <Point><coordinates>-7.8627066,42.3371322,0</coordinates></Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Dos Puertas</name>
+        <Point><coordinates>-7.8626588,42.3369872,0</coordinates></Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Tapería Arco da Vella</name>
+        <Point><coordinates>-7.8626419,42.3370214,0</coordinates></Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Restaurante Catador</name>
+        <Point><coordinates>-7.8624651,42.3366971,0</coordinates></Point>
+      </Placemark>
+
+      <Placemark>
+        <name>A Casa do Pulpo</name>
+        <Point><coordinates>-7.8628438,42.336729,0</coordinates></Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Peregrinus</name>
+        <Point><coordinates>-7.8609658,42.3420298,0</coordinates></Point>
+      </Placemark>
+
+    </Folder>
+
+  </Document>
+</kml>
